@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Tee t-shirt">
+  <rect width="400" height="400" fill="#f3f4f6"/>
+  <path d="M140 70 L100 85 L45 135 L80 185 L115 160 L115 340 L285 340 L285 160 L320 185 L355 135 L300 85 L260 70 C250 95 225 108 200 108 C175 108 150 95 140 70 Z" fill="#9aa3ad" stroke="#00000033" stroke-width="3"/>
+  <text x="200" y="380" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#4b5563">Tee</text>
+</svg>
